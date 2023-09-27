@@ -1,1 +1,2 @@
-# Text_Classification_By_SVM
+# Text Classification for Category Prediction using SVM, RandomForest, and XGBoost classifier: A Case Study with Yektanet Dataset 
+Welcome to an industrial exercise in the application of machine learning in Natural Language Processing (NLP). In this exercise, we have access to real Persian web data that has been refined and collected by the Yektanet platform. The goal of the exercise is to build a machine-learning model that can predict the categorical topic of a document based on the available text in a link, such as the title, description, complete text content, etc.
